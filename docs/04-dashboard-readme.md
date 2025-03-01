@@ -7,7 +7,8 @@ Login with admin-admin & Select dashboards from menu:
 Save the Dashboard before losing it:
 ![alt text](image-3.png)
 
-
+Visualize the data by scraping metrics for required columns:
+![alt text](image-4.png)
 
 
 ----
