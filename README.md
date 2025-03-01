@@ -12,8 +12,6 @@ In this course, you'll learn:
 - How do you configure and use Grafana to visualize data collected by Prometheus?
 - Best practices for monitoring and alerting using Prometheus and Grafana.
 - Advanced topics such as scaling Prometheus and integrating it with other tools.
-- Full course of Grafana.
-- Full course of Grafna Loki.
 
 ## Why Learn Prometheus and Grafana?
 
@@ -123,3 +121,15 @@ Note:- Restart prometheus to apply the changes
 ```
 sudo systemctl restart prometheus
 ```
+
+-----
+
+## Grafana - Setup for visualization
+
+[Grafana](https://grafana.com/grafana/download?edition=oss)
+
+```
+./install-grafana.sh
+```
+
+Accessing the Grafana - [localhost:3000](http://localhost:3000)
