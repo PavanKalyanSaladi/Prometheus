@@ -11,3 +11,18 @@ The easiest way to get started with the latest version of Grafana is with Grafan
 ```
 
 Note:- Accessing the Grafana - [localhost:3000](http://localhost:3000)
+
+----
+
+#### Connecting Grafana to Prometheus
+Navigate to [Grafana](http://localhsot:3000)
+
+Add the data-source connection as below:
+![alt text](image.png)
+
+Check the connectivity:
+![alt text](image-1.png)
+
+----
+Next: [Create dashboard](docs/04-dashboard-readme.md)
+Previous: [Node-Exporter](docs/02-node-exporter-readme.md)

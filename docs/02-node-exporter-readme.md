@@ -54,3 +54,9 @@ Note:- Restart prometheus to apply the changes
 ```
 sudo systemctl restart prometheus
 ```
+
+
+----
+
+Next: [Grafana](docs/03-grafana-readme.md)
+Previous: [Prometheus](docs/01-prometheus-readme.md)

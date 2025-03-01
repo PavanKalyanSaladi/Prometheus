@@ -42,6 +42,8 @@ sudo systemctl start prometheus
 sudo systemctl enable prometheus
 ```
 
-Access promethues web server - localhost:9090
+Access [promethues](http://localhost:9090) in your host machine
 
 -----
+
+Next: [Node-Exporter](docs/02-node-exporter-readme.md)
