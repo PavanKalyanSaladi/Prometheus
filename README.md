@@ -118,3 +118,8 @@ scrape_configs:
       static_configs:
         - targets: ["localhost:9100"]
 ```
+
+Note:- Restart prometheus to apply the changes
+```
+sudo systemctl restart prometheus
+```
