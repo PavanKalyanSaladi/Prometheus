@@ -24,5 +24,5 @@ Check the connectivity:
 ![alt text](image-1.png)
 
 ----
-Next: [Create dashboard](docs/04-dashboard-readme.md)
-Previous: [Node-Exporter](docs/02-node-exporter-readme.md)
+Next: [Create dashboard](04-dashboard-readme.md) <br/>
+Previous: [Node-Exporter](02-node-exporter-readme.md)

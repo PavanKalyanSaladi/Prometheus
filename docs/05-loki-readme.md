@@ -8,3 +8,7 @@ Loki is an open-source log aggregation system designed to work seamlessly with g
 
 How it works: [loki](https://grafana.com/docs/loki/latest/setup/install/)
 ![alt text](image-5.png)
+
+
+Next: Will Update Soon
+Previous: [Create dashboard](04-dashboard-readme.md)

@@ -21,5 +21,8 @@ Prometheus and Grafana have become industry standards for monitoring and visuali
 
 1. [Prometheus Installation](docs/01-prometheus-readme.md)
 2. [Node-Exporter](docs/02-node-exporter-readme.md)
+3. [Grafana](docs/03-grafana-readme.md)
+4. [Create dashboard](docs/04-dashboard-readme.md)
+5. [Grafana Loki](docs/05-loki-readme.md)
 
 ----

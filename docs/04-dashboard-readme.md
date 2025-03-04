@@ -13,5 +13,5 @@ Visualize the data by scraping metrics for required columns:
 
 ----
 
-Next: [Grafana Loki](docs/05-loki-readme.md)
-Previous: [Grafana](docs/03-grafana-readme.md)
+Next: [Grafana Loki](05-loki-readme.md) <br/>
+Previous: [Grafana](03-grafana-readme.md)

@@ -58,5 +58,5 @@ sudo systemctl restart prometheus
 
 ----
 
-Next: [Grafana](docs/03-grafana-readme.md)
-Previous: [Prometheus](docs/01-prometheus-readme.md)
+Next: [Grafana](03-grafana-readme.md) <br/>
+Previous: [Prometheus](01-prometheus-readme.md)
