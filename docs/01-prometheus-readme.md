@@ -46,4 +46,4 @@ Access [promethues](http://localhost:9090) in your host machine
 
 -----
 
-Next: [Node-Exporter](docs/02-node-exporter-readme.md)
+Next: [Node-Exporter](02-node-exporter-readme.md)
