@@ -10,5 +10,5 @@ How it works: [loki](https://grafana.com/docs/loki/latest/setup/install/)
 ![alt text](image-5.png)
 
 
-Next: Will Update Soon
+Next: Working on Loki with OpenTelemetry <br>
 Previous: [Create dashboard](04-dashboard-readme.md)
