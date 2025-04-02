@@ -6,7 +6,8 @@ Loki is an open-source log aggregation system designed to work seamlessly with g
 * Integration with Grafana: Users can visualize log data in dashboards, also for other observability metrics.
 * Distributed Architecture: It can scale horizontally and cost-effective.
 
-How it works: [loki](https://grafana.com/docs/loki/latest/setup/install/)
+How it works: [loki](https://grafana.com/docs/loki/latest/setup/install/) <br>
+
 ![alt text](image-5.png)
 
 
